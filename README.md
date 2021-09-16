@@ -43,20 +43,20 @@ VM for running anything that requires Windows 10.
 
 ### I’m currently reading
 
-<table>
+<table style="table-layout:fixed;">
     <tr>
-        <td style="width:20%">
-            <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" height=90/>
+        <td style="text-align:center;width:30%">
+            <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" style="width:90px;"/>
         </td>
-        <td>
+        <td style="width:70%">
             <i><b>Generative Deep Learning</b> by David Foster</i>
         </td>
     </tr>
     <tr>
-        <td style="width:20%">
-            <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" height=90>
+        <td style="text-align:center;width:20%">
+            <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" style="width:90px;">
         </td>
-        <td>
+        <td style="width:70%">
             <i><b>Practical Machine Learning for Computer Vision</b>
             by Valliappa Lakshmanan, Martin Görner, Ryan Gillard</i>
         </td>
