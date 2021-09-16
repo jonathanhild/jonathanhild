@@ -2,6 +2,12 @@
 
 I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My Github profile has machine learning and deep learning projects I do for fun and knowledge-building.
 
+### What I'm doing
+
+- Made Pop_OS! Linux my exclusive OS and deleted the Windows partition from my machine. I now use a VM for running anything that requires Windows 10.
+- I switched from Anaconda to Miniconda and my Python environments are now so much easier to maintain.
+
+
 ### Coding & Tools
 
 <center>
@@ -30,20 +36,34 @@ I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My
 
 </center>
 
-### What I'm doing
-
-- Stopped dual-booting and deleted the Windows partition from my machine. I now use a VM for running anything that requires Windows 10.
-- I switched from Anaconda to Miniconda and my Python environments are now so much easier to maintain.
-
 ### I’m currently reading
 
-<img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" height=90>
+<table>
+    <tr style="border:none;">
+        <td style="width:20%">
+            <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" height=90/>
+        </td>
+        <td>
+            <b>Generative Deep Learning</b> by David Foster
+        </td>
+    </tr>
+    <tr style="border:none;">
+        <td>
+            <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" height=90>
+        </td>
+        <td>
+            <b>Practical Machine Learning for Computer Vision</b> by Valliappa Lakshmanan, Martin Görner, Ryan Gillard
+        </td>
+    </tr>
+</table>
 
-**Generative Deep Learning** by David Foster
 
-<img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" height=90>
 
-**Practical Machine Learning for Computer Vision** by Valliappa Lakshmanan, Martin Görner, Ryan Gillard
+
+
+
+
+
 <!--
 **jonathanhild/jonathanhild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
