@@ -2,11 +2,11 @@
 
 <table style="table-layout:fixed;">
     <tr>
-        <td style="text-align:center;width:30%">
+        <td style="text-align:center;width:50%">
             <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" style="width:120px;"/>
         </td>
-        <td style="width:70%">
-            <i><b>Building Machine Learning Powered Applications</b> by Emmanuel Ameisen</i>
+        <td style="width:50%">
+            <h3><i><b>Building Machine Learning Powered Applications</b> by Emmanuel Ameisen</i></h3>
             <p>
             The single most important thing I learned from this book was an architecture pattern for a simple ML pipeline. There are two parallel pipelines: inference and training. Focus is first place on building the inference pipeline that will produce simple results. Second, the training pipeline is developed to iteratively produce ML models with improved performance and additional features.
             </p>
