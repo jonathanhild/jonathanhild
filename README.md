@@ -38,8 +38,8 @@ I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My
 
 ### I’m currently reading
 
-<table>
-    <tr style="border:none;">
+<table style="border:none;">
+    <tr>
         <td style="width:20%">
             <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" height=90/>
         </td>
@@ -47,8 +47,8 @@ I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My
             <b>Generative Deep Learning</b> by David Foster
         </td>
     </tr>
-    <tr style="border:none;">
-        <td>
+    <tr>
+        <td style="width:20%">
             <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" height=90>
         </td>
         <td>
