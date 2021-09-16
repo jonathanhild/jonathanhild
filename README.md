@@ -1,10 +1,15 @@
 ## Wazzup, Github?!
 
-I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My Github profile has machine learning and deep learning projects I do for fun and knowledge-building.
+I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My Github profile has
+machine learning and deep learning projects I do for fun and knowledge-building.
 
 ### What I'm doing
 
-- Made Pop_OS! Linux my exclusive OS and deleted the Windows partition from my machine. I now use a VM for running anything that requires Windows 10.
+- Coding image preprocessing steps on the training pipeline for
+[DarkLogoGAN](https://github.com/jonathanhild/DarkLogoGAN).
+- Made Pop_OS! Linux my exclusive OS and deleted the Windows partition from my machine. I now use a
+VM for running anything that requires Windows 10.
+- Scraped 3.8GB band logos from [www.metal-archives.com](https://www.metal-archives.com).
 - I switched from Anaconda to Miniconda and my Python environments are now so much easier to maintain.
 
 
@@ -38,13 +43,13 @@ I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My
 
 ### I’m currently reading
 
-<table style="border:none;">
+<table>
     <tr>
         <td style="width:20%">
             <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" height=90/>
         </td>
         <td>
-            <b>Generative Deep Learning</b> by David Foster
+            <i><b>Generative Deep Learning</b> by David Foster</i>
         </td>
     </tr>
     <tr>
@@ -52,17 +57,13 @@ I'm Jonathan Hildenbrand, a data analyst/scientist and former food scientist. My
             <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" height=90>
         </td>
         <td>
-            <b>Practical Machine Learning for Computer Vision</b> by Valliappa Lakshmanan, Martin Görner, Ryan Gillard
+            <i><b>Practical Machine Learning for Computer Vision</b>
+            by Valliappa Lakshmanan, Martin Görner, Ryan Gillard</i>
         </td>
     </tr>
 </table>
 
-
-
-
-
-
-
+Look at my [full reading list](./reading_list.md) with short book reviews.
 
 <!--
 **jonathanhild/jonathanhild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
