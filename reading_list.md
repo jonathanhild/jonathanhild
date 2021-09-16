@@ -1,28 +1,19 @@
 # Reading List
 
-<table style="table-layout:fixed;">
-    <tr>
-        <td style="text-align:center;width:50%">
-            <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" style="width:120px;"/>
-        </td>
-        <td style="width:50%">
-            <h3><i><b>Building Machine Learning Powered Applications</b> by Emmanuel Ameisen</i></h3>
-            <p>
-            The single most important thing I learned from this book was an architecture pattern for a simple ML pipeline. There are two parallel pipelines: inference and training. Focus is first place on building the inference pipeline that will produce simple results. Second, the training pipeline is developed to iteratively produce ML models with improved performance and additional features.
-            </p>
-            <h3>
-            Inference Pipeline
-            </h3>
-            <p>
-            inference data >> preprocess >> run model >> clean-up >> present
-            </p>
-            <h3>
-            Training Pipeline
-            </h3>
-            <p>
-            training data >> preprocess >> train >> evaluate >> save
-            </p>
-            <p>I'm using this architecture in two of my personal projects, using a Flask webpage for one, and a Click CLI for the other.
-        </td>
-    </tr>
-</table>
+<img src="https://learning.oreilly.com/library/cover/9781492045106/250w/" style="width:120px;"/>
+
+## _**Building Machine Learning Powered Applications** by Emmanuel Ameisen_
+
+The single most important thing from this book was an architecture pattern for a simple ML pipeline. There are two parallel pipelines: inference and training. Focus is first place on building the inference pipeline that will produce simple results. Second, the training pipeline is developed to iteratively produce ML models with improved performance and additional features.
+
+*Inference Pipeline*
+
+    inference data >> preprocess >> run model >> clean-up >> present
+
+*Training Pipeline*
+
+    training data >> preprocess >> train >> evaluate >> save
+
+"Save" in the training pipeline then connects to the "run model" step in the inference pipeline. I'm using this architecture in two of my personal projects, using a Flask webpage for one, and a Click CLI for the other.
+
+---

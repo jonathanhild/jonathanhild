@@ -1,9 +1,9 @@
-<h1 align="center">Wazzup, Github?!</h1>
+# Wazzup, Github?!
 
 I'm Jonathan Hildenbrand, a data analyst/scientist and latent food scientist. My Github profile has
 machine learning and deep learning projects I do for fun and knowledge-building.
 
-### What I'm doing
+## What I'm doing
 
 - Coding image preprocessing steps on the training pipeline for [DarkLogoGAN](https://github.com/jonathanhild/DarkLogoGAN).
 - Finishing inference pipeline for [DarkLogoGAN](https://github.com/jonathanhild/DarkLogoGAN).
@@ -11,8 +11,7 @@ machine learning and deep learning projects I do for fun and knowledge-building.
 - Scraped 3.8GB band logos from [www.metal-archives.com](https://www.metal-archives.com).
 - I switched from Anaconda to Miniconda and my Python environments are now so much easier to maintain.
 
-
-### Coding & Tools
+## Coding & Tools
 
 <div align="center">
 
@@ -40,28 +39,17 @@ machine learning and deep learning projects I do for fun and knowledge-building.
 
 </div>
 
-### I’m currently reading
+## I’m currently reading
 
-<table style="table-layout:fixed;">
-    <tr>
-        <td style="text-align:center;width:30%">
-            <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" style="width:90px;"/>
-        </td>
-        <td style="width:70%">
-            <i><b>Generative Deep Learning</b> by David Foster</i>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align:center;width:20%">
-            <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" style="width:90px;">
-        </td>
-        <td style="width:70%">
-            <i><b>Practical Machine Learning for Computer Vision</b> by Valliappa Lakshmanan, Martin Görner, Ryan Gillard</i>
-        </td>
-    </tr>
-</table>
+|                                                                                                 |                    |
+|-------------------------------------------------------------------------------------------------|--------------------|
+| <img src="https://learning.oreilly.com/library/cover/9781492041931/250w/" style="width:90px;"/> | _**Generative Deep Learning** by David Foster_ |
+| <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" style="width:90px;"/> | _**Practical Machine Learning for Computer Vision** by Valliappa Lakshmanan, Martin Görner, Ryan Gillard_ |
 
 Look at my [full reading list](./reading_list.md) with short book reviews.
+
+<!--<h3>My Portfolio</h3>-->
+<!-- To be added when projects are finished -->
 
 <div align="center">
 <a href="https://github.com/jonathanhild">
@@ -72,16 +60,3 @@ Look at my [full reading list](./reading_list.md) with short book reviews.
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jonathanhild1?style=social">
 </a>
 </div>
-
-
-<!--
-**jonathanhild/jonathanhild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
