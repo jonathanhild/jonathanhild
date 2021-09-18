@@ -3,9 +3,9 @@
 I'm Jonathan Hildenbrand, a data analyst/scientist and latent food scientist. My Github profile has
 machine learning and deep learning projects I do for fun and knowledge-building.
 
-<center>
+<div align="center">
     <a href="https://github.com/jonathanhild/resume/blob/main/jonathan_hildenbrand_resume.pdf">My resume</a>
-</center>
+</div>
 
 ## What I'm doing
 
