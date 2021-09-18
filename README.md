@@ -3,9 +3,15 @@
 I'm Jonathan Hildenbrand, a data analyst/scientist and latent food scientist. My Github profile has
 machine learning and deep learning projects I do for fun and knowledge-building.
 
-<div align="center">
-    <h2><a href="https://github.com/jonathanhild/resume/blob/main/jonathan_hildenbrand_resume.pdf">My resume</a></h2>
-</div>
+If you're interested in hiring me, check out [my resume](https://github.com/jonathanhild/resume/blob/main/jonathan_hildenbrand_resume.pdf).
+
+## My Interests
+
+I spend my time listening to heavy metal and podcasts, playing board games (before Covid), and working out.
+
+I like experimenting with generative networks, convolutional neural networks and everything to do with TensorFlow.
+
+Check out my pinned projects below.
 
 ## What I'm doing
 
@@ -52,8 +58,7 @@ machine learning and deep learning projects I do for fun and knowledge-building.
 
 Look at my [full reading list](./reading_list.md) with short book reviews.
 
-<!--<h3>My Portfolio</h3>-->
-<!-- To be added when projects are finished -->
+---
 
 <div align="center">
 <a href="https://github.com/jonathanhild">
