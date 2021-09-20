@@ -57,15 +57,3 @@ Check out my pinned projects below.
 | <img src="https://learning.oreilly.com/library/cover/9781098102357/250w/" style="width:90px;"/> | _**Practical Machine Learning for Computer Vision** by Valliappa Lakshmanan, Martin Görner, Ryan Gillard_ |
 
 Look at my [full reading list](./reading_list.md) with short book reviews.
-
----
-
-<div align="center">
-<a href="https://github.com/jonathanhild">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jonathanhild?style=social">
-</a>
-
-<a href="https://twitter.com/jonathanhild1">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jonathanhild1?style=social">
-</a>
-</div>
